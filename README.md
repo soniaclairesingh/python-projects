@@ -1,3 +1,11 @@
-# learning-notes-certs
+## 💾 How to Play (No Coding Needed)
 
-To store links, notes, and certs (e.g., Prompt Engineering)
+1. Go to the [Releases]([https://github.com/soniaclairesingh/python-projects/releases/tag/v1.0]) page.
+2. Download the latest version of `MandarinMemoryGame.exe`
+3. Double-click to play — no additional installation needed!
+
+> 🧠 Match the Mandarin numbers to their Arabic equivalents before time runs out!
+
+![Game Screenshot](memory_match.png)
+
+You can access the code here --> ![Game Python code](https://github.com/soniaclairesingh/python-projects/blob/main/memory_match.py)
