@@ -6,7 +6,6 @@
 
 > 🧠 Match the Mandarin numbers to their Arabic equivalents before time runs out!
 
-![Game Screenshot](memory_match.png)
 <img src="memory_match.png" alt="memory_match.png" width="400"/>
 
 You can access the code here --> ![Game Python code](https://github.com/soniaclairesingh/python-projects/blob/main/memory_match.py)
