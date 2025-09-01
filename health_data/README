@@ -1,1 +1,19 @@
+# No-show - Health Analysis Project
+Data: https://www.kaggle.com/datasets/joniarroba/noshowappointments?resource=download
 
+## Overview
+Analysis of patient appointment no-show rates using a public dataset. Explored patterns by:
+- Neighborhood
+- Appointment weekday
+- Scheduled hour
+
+## Tools
+- Python (Pandas, Matplotlib)
+- Jupyter Notebook
+
+## Key Findings
+- Certain neighborhoods and weekdays have higher no-show rates.
+- Scheduled time of day influences likelihood of attending.
+
+## Notes
+- Cleaned and processed dates, handled missing data, created flags, pivoted tables, and generated visualizations.
